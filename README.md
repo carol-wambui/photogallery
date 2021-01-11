@@ -36,3 +36,11 @@ Technology Used
 .Python 3.6
 .Bootstrap
 .Django
+
+Contact Info:
+carolwambuidaystar@gmail.com
+
+License
+this software license under MIT License
+
+Copyright (c) 2020 Carol Wambui

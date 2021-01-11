@@ -1,5 +1,5 @@
-# from django.apps import AppConfig
+from django.apps import AppConfig
 
 
-# class GalleryConfig(AppConfig):
-#     name = 'gallery'
+class GalleryConfig(AppConfig):
+    name = 'gallery'

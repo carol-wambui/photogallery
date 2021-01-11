@@ -1,6 +1,6 @@
 Gallery
 Author
-Carol 
+Carol Wambui
 Description
 This is an application that allows users to view photos in my gallery
 

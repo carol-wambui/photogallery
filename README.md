@@ -22,3 +22,17 @@ python3 -m venv virtual
 source virtual/bin/activate
 Install Dependencies
 pip install -r requirements.txt
+
+Setup Database
+.SetUp your database User,Password, Host then make migrate
+.python manage.py makemigrations
+
+Getting started
+.Clone repository to your computer
+.Install python
+.Create virtual environment
+
+Technology Used
+.Python 3.6
+.Bootstrap
+.Django
